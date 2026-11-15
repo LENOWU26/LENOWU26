@@ -4,3 +4,4 @@
 - 2026-11-12 · api returned 429, added backoff
 - 2026-11-13 · sketch the next tool
 - 2026-11-14 · bump deps
+- 2026-11-15 · read the pump.fun docs
