@@ -5,3 +5,4 @@
 - 2026-11-13 · sketch the next tool
 - 2026-11-14 · bump deps
 - 2026-11-15 · read the pump.fun docs
+- 2026-11-16 · clean logs
