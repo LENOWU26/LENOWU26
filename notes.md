@@ -7,3 +7,4 @@
 - 2026-11-15 · read the pump.fun docs
 - 2026-11-16 · clean logs
 - 2026-11-17 · small fixes
+- 2026-11-18 · small fixes
