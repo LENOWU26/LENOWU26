@@ -6,3 +6,4 @@
 - 2026-11-14 · bump deps
 - 2026-11-15 · read the pump.fun docs
 - 2026-11-16 · clean logs
+- 2026-11-17 · small fixes
