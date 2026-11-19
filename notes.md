@@ -8,3 +8,4 @@
 - 2026-11-16 · clean logs
 - 2026-11-17 · small fixes
 - 2026-11-18 · small fixes
+- 2026-11-19 · log the day
