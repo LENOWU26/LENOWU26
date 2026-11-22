@@ -10,3 +10,4 @@
 - 2026-11-18 · small fixes
 - 2026-11-19 · log the day
 - 2026-11-20 · bump deps
+- 2026-11-21 · clean logs
