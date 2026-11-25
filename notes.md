@@ -14,3 +14,4 @@
 - 2026-11-22 · bump deps
 - 2026-11-23 · read the pump.fun docs
 - 2026-11-24 · log the day
+- 2026-11-25 · sketch the next tool
