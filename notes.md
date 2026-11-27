@@ -16,3 +16,4 @@
 - 2026-11-24 · log the day
 - 2026-11-25 · sketch the next tool
 - 2026-11-26 · tidy the wallet list
+- 2026-11-27 · cache the pair list
